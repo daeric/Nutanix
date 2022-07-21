@@ -1,6 +1,6 @@
 #cloud-config
 user: nutanix
-password: how2demoright! 
+password: ******** 
 chpasswd: {expire: False}
 sudo: ALL=(ALL) NOPASSWD:ALL
 ssh_pwauth: True
