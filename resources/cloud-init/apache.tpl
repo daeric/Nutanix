@@ -1,10 +1,10 @@
 #cloud-config
 user: nutanix
-password: how2Demoright! 
+password: ********
 chpasswd: {expire: False}
 sudo: ALL=(ALL) NOPASSWD:ALL
 ssh_pwauth: True
-fqdn: ${hostname}.local.lab
+fqdn: ${hostname}.local
 hostname: ${hostname}
 
 apt_upgrade: true
