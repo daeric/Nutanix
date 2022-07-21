@@ -1,7 +1,7 @@
 cluster_name               = "PHX-SPOC001-1"
 subnet_name                = "Primary"
 user                       = "admin"
-password                   = "how2Demoright!"
+password                   = "********"
 endpoint                   = "10.38.1.9"
 foundation_endpoint        = "0.0.0.0"
 foundation_port            = "8000"
